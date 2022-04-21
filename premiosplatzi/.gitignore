@@ -1,0 +1,4 @@
+django/
+.vscode/
+premiosplatziapp/premiosplatziapp/__pycache__
+premiosplatziapp/polls/__pycache__
